@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "SyntaxHighlighter Reloaded theme",
-  "repository": "https://github.com/atom/syntaxhighlighter-reloaded",
+  "repository": "https://github.com/unitmatrix/atom-syntaxhighlighter",
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
