@@ -1,0 +1,11 @@
+{
+  "name": "SyntaxHighlighter Reloaded",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "SyntaxHighlighter Reloaded theme",
+  "repository": "https://github.com/atom/syntaxhighlighter-reloaded",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  }
+}
