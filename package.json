@@ -1,7 +1,7 @@
 {
   "name": "SyntaxHighlighter-Reloaded",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "SyntaxHighlighter Reloaded theme",
   "repository": "https://github.com/unitmatrix/atom-syntaxhighlighter",
   "license": "MIT",
